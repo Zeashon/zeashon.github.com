@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zeashon.github.io/"/>
-  <updated>2016-09-06T07:28:37.709Z</updated>
+  <updated>2016-09-07T10:01:56.282Z</updated>
   <id>https://zeashon.github.io/</id>
   
   <author>
@@ -16,16 +16,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>postName</title>
-    <link href="https://zeashon.github.io/2016/09/06/postName/"/>
-    <id>https://zeashon.github.io/2016/09/06/postName/</id>
+    <title>Test_title</title>
+    <link href="https://zeashon.github.io/2016/09/06/Test/"/>
+    <id>https://zeashon.github.io/2016/09/06/Test/</id>
     <published>2016-09-06T07:28:37.000Z</published>
-    <updated>2016-09-06T07:28:37.709Z</updated>
+    <updated>2016-09-07T10:01:56.282Z</updated>
+    
+    <content type="html"><![CDATA[<p>tags:</p>
+<ul>
+<li>标题1</li>
+<li>标题2</li>
+<li>标题3</li>
+<li>etc…</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
+      test_description
+    
     </summary>
     
+    
+      <category term="test_tags" scheme="https://zeashon.github.io/tags/test-tags/"/>
     
   </entry>
   
